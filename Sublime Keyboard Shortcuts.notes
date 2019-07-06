@@ -5,31 +5,32 @@ Keyboard Shortcuts
 ------------
 Sublime Text
 ------------
-This is a collection of all the packages that I use in Sublime Text.
 
-1. Package Control  # Allows you to install/maintain packages.
-2. A File Icon  # Updates icons in sidebar.
-3. ColorPicker  # Visual Hexadecimal colorpicker.
-4. DocBlockr  #Makes it easier to create comment blocks.
-5. Emmet # Enables expansion of code snippets.
-6. Git # Diversifies git!.
-7. Handlebars # Enables handlebars syntax styling.
-8. Hover Image Preview # Enables preview of image on hover.
-9. JsFormat # Formats javascript using keybinds.
-10. Pretty JSON # Formats JSON files using keybinds.
-11. Notes # Enables notes file type.
-12. Origami # Enables ability to create views via keystrokes
-13. PyV8 # Default
-14. Sass # Enables syntax styling for sass
-15. SideBarEnhancements # Implements more folder 
-16. SublimeCodeIntel # Allows for quick jumping to code definitions
-17. SublimeLinter # Default enables linting.
-18. SublimeLinter - Html Tidy # Enables linting of html.
-19. SublimeLinter - Css Lint # Enables linting of Css.
-20. SublimeLinter - Jshint #Enables linting of Javascript.
-21. SublimeLinter - JSON # Enables Linting of JSON files.
-22. Terminus # Allows for terminal functionality in a view.
 
+List of keyboard shortcuts to remember.
+
+
+--- Origami ---
+
+1. no modifiers: # travel to an adjacent pane
+2. shift # carry the current file to the destination
+3. option # clone the current file to the destination
+4. cmd # create an adjacent pane
+5. cmd+shift: # destroy an adjacent pane
+
+--- Pretty JSON ---
+
+1. cmd+ctrl+j # Beautify JSON file.
+
+--- Js Format ---
+
+1. ctrl+opt+f # Beautify Javascript.
+
+--- Terminus ---
+
+1. opt+` # Open Terminal panel
+2. ctrl+opt+t # Open Terminal panel in bottom view
+3. ctrl+w # Close terminal window
 
 
 
